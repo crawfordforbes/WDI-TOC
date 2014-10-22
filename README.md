@@ -161,6 +161,21 @@ Week 7
   building commandline app and refactoring it to web app
     
     homework: hangman
-    
+
+Week 8
+======
+
+ **Day 1**
+ more javascript, html5, css
+ 
+  homework: recreate layouts with CSS
   
+ **Day 2**
+ Bootstrap
+ 
+  homework: make a t-shirt store with bootstrap and js
   
+ **Day 3**
+ 
+  
+
